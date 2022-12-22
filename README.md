@@ -1,10 +1,8 @@
-<h1 align='center'> Hi! :wave:</h1>
-
-<h2 align='center'> The alt account of @TimSolokha focused on Game Dev and Design. </h2>
+![Header](https://github.com/Pitanova/Pitanova/blob/main/header.png?raw=true)
 
 ## Languages and Tools 🛠️
 
-## Game Dev
+### Game Dev
 [![My Skills](https://skillicons.dev/icons?i=godot)](https://godotengine.org/)
 [![My Skills](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 [![My Skills](https://skillicons.dev/icons?i=unreal)](https://www.unrealengine.com/en-US)
